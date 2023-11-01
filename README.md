@@ -1,4 +1,4 @@
-# Electronic Bump for Right Turn Collision Prevention (우회전 사고 예방을 위한 전자 방지턱 시스템)
+# Electronic Bump for Right Turn Collision Prevention <br> (우회전 사고 예방을 위한 전자 방지턱 시스템)
 ![path](/exampleImage.png)
 
 저희 팀의 전자 방지턱은 오른쪽 회전 사고 예방을 위한 효과적인 솔루션 중 하나입니다.
